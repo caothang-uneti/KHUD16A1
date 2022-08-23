@@ -1,1 +1,2 @@
-Day la kho luu trữ từ xa của lớp KHDL16A1
+Khoa Khoa học ứng dụng
+Đây là la kho lưu trữ từ xa của lớp KHDL16A1
